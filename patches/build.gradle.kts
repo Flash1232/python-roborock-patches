@@ -1,15 +1,14 @@
-group = "app.template"
+group = "app.roborock"
 
 patches {
-    // TODO: Update this section with your project details.
     about {
-        name = "UserXYZ Patches"
-        description = "Patches for apps I like"
-        source = "git@github.com:UserXYZ/morphe-patches.git"
-        author = "Awesome dev"
+        name = "Python-roborock Patches"
+        description = "roborock_local_server patches for the Roborock app"
+        source = "git@github.com:Flash1232/python-roborock-patches.git"
+        author = "Flash1232"
         contact = "na"
-        website = "na"
-        license = "GPLv3"
+        website = "https://github.com/Flash1232/python-roborock-patches"
+	license = "GPLv3"
     }
 }
 
