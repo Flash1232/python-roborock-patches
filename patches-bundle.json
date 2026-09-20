@@ -1,7 +1,7 @@
 {
-  "created_at": "",
-  "description": "",
-  "download_url": "",
+  "created_at": "2026-09-20T10:53:54",
+  "description": "## 1.0.0-dev.1 (2026-09-20)\n\n### ✨ New Features\n\n* Add Roborock mitm bypass patch ([2660ae2](https://github.com/Flash1232/python-roborock-patches/commit/2660ae26278c68c1878f03a66ebbb817e075041b))",
+  "download_url": "https://github.com/Flash1232/python-roborock-patches/releases/download/v1.0.0-dev.1/patches-1.0.0-dev.1.mpp",
   "signature_download_url": "",
-  "version": ""
+  "version": "1.0.0-dev.1"
 }
